@@ -202,6 +202,7 @@ module.exports = {
             'kratos/guides/two-factor-authentication-2fa-mfa',
             'kratos/guides/sign-in-with-github-google-facebook-linkedin',
             'kratos/guides/configuring-cookies',
+            'kratos/guides/deploy-kratos-example',
             'kratos/guides/multi-domain-cookies',
             'kratos/guides/setting-up-cors',
             'kratos/guides/password-policy',
@@ -220,8 +221,7 @@ module.exports = {
             'kratos/guides/setting-up-password-hashing-parameters',
             'kratos/guides/integration-with-other-systems-using-web-hooks',
             'kratos/guides/tracing',
-            'kratos/guides/upgrade',
-            'kratos/guides/going-to-production-with-nginx-and-digitalocean'
+            'kratos/guides/upgrade'
           ]
         },
         'kratos/reference/api',
